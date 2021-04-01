@@ -1,0 +1,19 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "This application will host my projects ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-vargas/responsive-portfolio.git"
+  },
+  "author": "Christian Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-vargas/responsive-portfolio/issues"
+  },
+  "homepage": "https://github.com/c-vargas.github.io/responsive-portfolio#readme"
+}
